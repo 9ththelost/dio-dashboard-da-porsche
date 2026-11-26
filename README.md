@@ -2,7 +2,7 @@
 
 Dashboard em HTML de arquivo único que responde a perguntas de negócio sobre 100 vendas de veículos Porsche, com filtros e indicadores de topo.
 
-**Dashboard publicada:** https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+**Dashboard publicada:** https://9ththelost.github.io/dio-dashboard-da-Porsche/
 
 ![Dashboard sem filtro](prints/dashboard-geral.png)
 
